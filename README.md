@@ -1,30 +1,32 @@
-## QR - CAMPUSAR AN AUGMENTED REALITY ASSISTANT FOR SMART CAMPUS NAVIGATION AND SERVICES
+### QR - CAMPUSAR AN AUGMENTED REALITY ASSISTANT FOR SMART CAMPUS NAVIGATION AND SERVICES
 Name : RANJANI A
+
+
 Register No: 212223230170
 ## Aim
 
-The aim of the QR-CampusAR project is to design and develop an Augmented Reality based indoor navigation system that helps students, faculty, and visitors easily locate destinations inside a college campus using QR codes and real-time AR guidance.
+  The aim of the QR-CampusAR project is to design and develop an Augmented Reality based indoor navigation system that helps students, faculty, and visitors easily locate destinations inside a college campus using QR codes and real-time AR guidance.
 ## Algorithm / Procedure
 
-Launch the QR-CampusAR mobile application.
+* Launch the QR-CampusAR mobile application.
 
-Activate the camera module to scan the QR code placed at the current campus location.
+* Activate the camera module to scan the QR code placed at the current campus location.
 
-Decode the QR code to identify the user’s current position.
+* Decode the QR code to identify the user’s current position.
 
-Display a list of available destinations (classrooms, labs, offices, etc.).
+* Display a list of available destinations (classrooms, labs, offices, etc.).
 
-Allow the user to select a destination.
+* Allow the user to select a destination.
 
-Retrieve the navigation path corresponding to the source and destination.
+* Retrieve the navigation path corresponding to the source and destination.
 
-Render Augmented Reality arrows and markers on the live camera view using ARCore.
+* Render Augmented Reality arrows and markers on the live camera view using ARCore.
 
-Continuously update navigation directions as the user moves.
+* Continuously update navigation directions as the user moves.
 
-Notify the user when the destination is reached.
+* Notify the user when the destination is reached.
 
-End the navigation process.
+* End the navigation process.
 
 ## Output 
 
